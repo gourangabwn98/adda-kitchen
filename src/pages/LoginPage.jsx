@@ -78,7 +78,7 @@ export default function LoginPage() {
         }}
       >
         <img
-          src="/chef.jpg"
+          src="/chef.png"
           alt="Chef"
           style={{
             width: "100%",
