@@ -24,7 +24,7 @@ export default function App() {
       >
         <div
           style={{
-            width: 390,
+            // width: 390,
             minHeight: "100vh",
             background: "#f5f5f5",
             position: "relative",
